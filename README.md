@@ -1,6 +1,7 @@
 # AI Triage Pipeline for Customer Support
 
 
+
 An AI-powered system that classifies and routes customer support tickets based on severity and priority, using a multi-agent architecture.
 
 The pipeline reads incoming tickets, runs them through two specialized AI agents, applies rule-based routing logic, logs full reasoning, and surfaces everything in an interactive dashboard.
