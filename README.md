@@ -129,7 +129,3 @@ This runs every ticket in `test_tickets.json` through both agents, compares the 
 - Ticket data is centralized in `test_tickets.json` to avoid duplication across files.
 
 ---
-
-## Author
-
-_Add your name and links here._
